@@ -10,31 +10,32 @@
 
 ##### 1. What's a program?
 
-> _your answer here_
+> Set of instructions to computers to do something
 
 ##### 2. What's a computer language?
 
-> _your answer here_
+> Is a set of specific words to make instructions for computers to do something.
 
 ##### 3. What's a variable?
 
-> _your answer here_
+> As Up&Going said, it's like a box to hold values
 
 ##### 4. What's a statement?
 
-> _your answer here_
+> Group of numbers, words and operators
 
 ##### 5. From the statement `a = b * 2` identify its parts _(literals, variables, operators)._
 
-> _your answer here_
+> a is a variable expression, assigment operator, variable expression, multiplicator operator, 
+literal expression.
 
 ##### 6. What's an expression?
 
-> _your answer here_
+> An expression is when it compare variables with operators
 
 ##### 7. How many expressions can you indentify from the statement `a = b * 2;`?
 
-> _your answer here_
+> 4: 
 
 ##### 8. What's the difference between `interpreted` and `compiled` code?
 
